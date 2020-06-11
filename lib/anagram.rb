@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 class Anagram
     attr_accessor :word
   
@@ -11,3 +12,12 @@ class Anagram
         end 
     end 
 end 
+=======
+# Your code goes here!
+class Anagram 
+
+  def initialize
+  end 
+
+end 
+>>>>>>> 51a6c297a948f9faecae626b4af710a65cf0263a
